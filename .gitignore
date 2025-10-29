@@ -28,6 +28,7 @@ desktop.ini
 
 # Compressed / temporary
 *.zip
+*.rar
 *.tmp
 *.bak
 
