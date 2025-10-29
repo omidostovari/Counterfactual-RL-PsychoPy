@@ -1,0 +1,41 @@
+# PsychoPy auto-generated files
+*_lastrun.py
+html/
+psychopy.log
+*.psydat
+data/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# macOS and Windows
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Compressed / temporary
+*.zip
+*.tmp
+*.bak
+
+# PDF reference docs (keep only working version)
+*.pdf
+!README.pdf
+
+# word and video
+*.doc
+*.docx
+*.mp4
